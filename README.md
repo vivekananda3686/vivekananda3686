@@ -58,8 +58,8 @@
 Here are a few projects I'm proud of:
 
 - [Obstacle_Avoidance_Autonomous_Vehicles](https://github.com/vivekananda3686/Obstacle_Avoidance_Autonomous_Vehicles) .
-- [Random_Password_Generator](https://github.com/vivekananda3686/Random_Password_Generator) - Brief description.
-- [Todo_List_Application](link_to_project_3) - Brief description.
+- [Random_Password_Generator](https://github.com/vivekananda3686/Random_Password_Generator) .
+- [Todo_List_Application](https://github.com/vivekananda3686/Todo_List_Application) .
 
 
 
@@ -74,7 +74,7 @@ Here are a few projects I'm proud of:
 Let's connect and collaborate! Feel free to reach out to me:
 
 - <a href="https://www.linkedin.com/in/vivekananda-kappatrala/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-- <a mailto="vivekananda3686@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+- <a href="vivekananda3686@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 -  <a href="https://www.instagram.com/its_me_vivek__nandu/?hl=en"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 - <a href="https://twitter.com/vivekananda3686"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
 - Personal Website: [Your Website/Blog](personal_website_link)
@@ -85,13 +85,7 @@ Thanks for stopping by and exploring my GitHub profile. If you find anything int
 
 <!-- Add any additional images or banners to enhance the README -->
 <p align="center">
-  <img src="additional_image.png" alt="Additional Image">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedapOycqNmnUTm0lS1luc-UTaC6c4todCpMIGQlhOHJI2PN9Kw9BxlenfwMyDNra3x1E&usqp=CAU" style="border-radius: 50%; alt="Additional Image">
 </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
