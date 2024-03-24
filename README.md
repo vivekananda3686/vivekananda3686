@@ -57,8 +57,8 @@
 
 Here are a few projects I'm proud of:
 
-- [Obstacle_Avoidance_Autonomous_Vehicles](link_to_project_1) - Brief description.
-- [Random_Password_Generator](link_to_project_2) - Brief description.
+- [Obstacle_Avoidance_Autonomous_Vehicles](https://github.com/vivekananda3686/Obstacle_Avoidance_Autonomous_Vehicles) .
+- [Random_Password_Generator](https://github.com/vivekananda3686/Random_Password_Generator) - Brief description.
 - [Todo_List_Application](link_to_project_3) - Brief description.
 
 
