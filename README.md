@@ -85,7 +85,7 @@ Thanks for stopping by and exploring my GitHub profile. If you find anything int
 
 <!-- Add any additional images or banners to enhance the README -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTedapOycqNmnUTm0lS1luc-UTaC6c4todCpMIGQlhOHJI2PN9Kw9BxlenfwMyDNra3x1E&usqp=CAU" style="border-radius: 50%; alt="Additional Image">
+  <img src="https://avatars.githubusercontent.com/u/114124950?v=4" style="border-radius: 50%; alt="Additional Image">
 </p>
 
 ###
