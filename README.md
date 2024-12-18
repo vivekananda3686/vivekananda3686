@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full Stack Developer with expertise in a variety of technologies. From crafting responsive web interfaces to building robust backend systems, I enjoy bringing ideas to life through code.<br><br>- 🔭 I’m studying B.Tech 3rd year CSE <br>- 📚 I'm currently learnig industry required technologies <br>- ⚡ In my free time I work to build the some projects</p>
+<p align="left">I'm a passionate Full Stack Developer with expertise in a variety of technologies. From crafting responsive web interfaces to building robust backend systems, I enjoy bringing ideas to life through code.<br><br>- 🔭 I’m studying B.Tech Final year CSE <br>- 📚 I'm currently learnig industry required technologies <br>- ⚡ In my free time I work to build the some projects</p>
 
 ###
 
