@@ -66,9 +66,6 @@ Here are a few projects I'm proud of:
 
 ## Get in Touch
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 Let's connect and collaborate! Feel free to reach out to me:
